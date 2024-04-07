@@ -1,4 +1,4 @@
-# HDRFringeprojection
+# HDR+Fringe projection
 ## Goal
 
 The fringe projection technique is a key method in manufacturing for acquiring 3D topography of objects. However, measuring highly reflective rotary surfaces poses challenges for optical methods, hindering the following defect detection. 
